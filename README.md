@@ -25,6 +25,11 @@
 <img alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="32px" width="auto" title="Typescript">
 </p>
 
+<p>
+<img alt="Google Cloud" src="https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4" height="32px" width="auto" title="Google Cloud">
+<img alt="Amazon Web Services" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="32px" width="auto" title="Amazon Web Services">
+</p>
+
 <h3>Education 🎓</h3><hr>
 
 <ul>
