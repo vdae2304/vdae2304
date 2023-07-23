@@ -22,6 +22,7 @@
 <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" height="32px" width="auto" title="HTML">
 <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" height="32px" width="auto" title="CSS">
 <img alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/368px-Unofficial_JavaScript_logo_2.svg.png" height="32px" width="auto" title="Javascript">
+<img alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="32px" width="auto" title="Typescript">
 </p>
 
 <h3>Education 🎓</h3><hr>
