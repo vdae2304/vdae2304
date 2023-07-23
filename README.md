@@ -5,7 +5,7 @@
 <ul>
 <li><strong>From:</strong> Mexico <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/188px-Flag_of_Mexico.svg.png" height="16px" width="auto"></li>
 <li><strong>Languages I speak:</strong> Spanish, English</li>
-<li><strong>Age:</strong> 23</li>
+<li><strong>Age:</strong> 24</li>
 <li><strong>Hobbies:</strong> Programming, Videogames, Anime, K-dramas</li>
 <li><strong>Favorite IDE:</strong> VS Code <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" height="16px" width="auto"></li>
 </ul>
